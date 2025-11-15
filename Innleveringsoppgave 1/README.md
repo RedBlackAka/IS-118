@@ -26,29 +26,35 @@ Videre vil jeg forklare felles mål for gruppen, i tillegg til å diskutere samm
 Til slutt er det viktig med en oppsumering, for å både gå gjennom alt på nytt og i tillegg ta imot spørsmål fra teamet om noe skulle være uklart og passe på at alle er på samme side om prosjektet før man starter for fullt neste møte. Jeg tror og det kan være en ide og presse inn en litt finere lunch enten på slutten eller midt i møtet, spørs på hvor lang tid man vil bruke på diskuteringen, for å skape et litt mindre anspent miljø hvor det kan være lettere å snakke om andre ting enn arbeid og bli kjent med de andre fra gruppen. I tillegg er det en bra måte å avslutte første møtet på en høy note slik at det blir lettere å komme tilbake til andre møte med høy motivasjon og kan starte prosjektet på en bra måte.
 
 ### Rammer for relasjonelle kontrakter
-Relasjonelle kontrakter utvider tradisjonell prosjektstyring utover “jerntriangelet” (som innebærer tid, kostnad og kvalitet) til også å regulere hvordan mennesker samarbeider og bygger tillit. 
+Relasjonelle kontrakter utvider tradisjonell prosjektstyring (jerntriangelet) (Rolstadås A. , 2025) ved å skape en god relasjon mellom byggherre og leverandør gjennom samhandlingen. Det innebærer at kontrakter kan inneholde egne tilleggsbestemmelser for å sikre at det er en god samhandling.
 
-Anbefalingene til Erlend burde være å ha noen hovedkomponentene for de relasjonelle kontraktene. Det burde innebære å ha tillit og psykologisk sikkerhet til gruppa. Det burde være greit å gjøre feil og lære uten en typisk skyldfordeling. Man skal ha en åpen kommunikasjon om utfordringer både i prosjektet og utenfor prosjektet, men også å ha en konstruktiv konflikt som en type drivkraft. 
+Anbefalingene til Erlend burde være å ha noen hovedkomponenter for de relasjonelle kontraktene. Det burde innebære å ha tillit og psykologisk sikkerhet til gruppa (Wahl, A. C. 2025). Det burde være greit å gjøre feil og lære uten en typisk skyldfordeling. Man skal ha en åpen kommunikasjon om utfordringer både i prosjektet og utenfor prosjektet, men også å ha en konstruktiv konflikt som en type drivkraft.
 
-Prosjektet må også kunne endre retning basert på ny kunnskap uten at det ses på som “feil” eller "dårlig" planlegging. Det vil si at Erlend kanskje burde inkludere månedlige refleksjoner og justering av retningen utover for prosjektet. Erlend kan også sette opp et budsjett for eksprementering av hvordan gruppen jobber sammen som testing og læring før selve prosjektet setter i gang. På denne måten kan han finne ut av eventuelle personfaktorer eller sosial loffing innad i deltakelsen.
+Prosjektet må også kunne endre retning basert på ny kunnskap uten at det ses på som “feil” eller "dårlig" planlegging. Kjerneelementene i relasjonelle kontrakter har en fordel i styrke samarbeid og tillit, skape større rom for innovasjon, ha en langsiktig lønnsomhet fremfor kortsiktig kostnadsjakt, mer konstruktiv til konflikthåndtering og ha et konkurransefortrinn gjennom selve relasjonen (Wahl, A. C. 2025). Det vil si at Erlend kanskje burde inkludere månedlige refleksjoner og justering av retningen utover for prosjektet. Erlend kan også sette opp et budsjett for eksperimentering av hvordan gruppen jobber sammen som testing og læring før selve prosjektet setter i gang.
 
-For å få et godt samarbeid mellom prosjekteier og prosjektleder kan det være lurt med en modell for beslutningsautoritet, hvor prosjekteier står ansvarlig for den strategiske retningen og interessenthåndteringen, mens prosjektleder står ansvarlig for den daglige driften, samtidig som de holder et godt samarbeid. Ved eskalerende problemer kan prosjekteier forplikte seg til å fjerne de organisatoriske hindringene innen en viss tid. Det kan foregå ukentlige koordineringsmøter og månedlige strategiske gjennomganger for å forhindre mistillit og problemer med samarbeidet mellom prosjektleder og prosjekteier (Bækken 2022).
+For å få et godt samarbeid mellom prosjekteier og prosjektleder kan det være lurt med en modell for beslutningsautoritet, hvor prosjekteier står ansvarlig for den strategiske retningen og interessenthåndteringen, mens prosjektleder står ansvarlig for den daglige driften, samtidig som de holder et godt samarbeid. Det kan foregå ukentlige koordineringsmøter og månedlige strategiske gjennomganger for å forhindre mistillit og problemer med samarbeidet mellom prosjektleder og prosjekteier (Bækken 2022).
 
 ### Proaktive mekanismer for konflikthåndtering
 
 #### Målrettede avgjørelser og definert ansvar:
 Når man tar avgjørelser i et prosjekt, bør man ha noen prinsipper. Avgjørelser bør helst vurderes sånn at prosjektets mål er hovedtingen. Er valgene i tråd med oppgaven? Støtter dette prosjektet? Dette er spørsmål som kan være lurt å ha i baktankene. 
+
 Det er hensiktsmessig å definere hvem som skal ta ledelsen i de forskjellige hoveddelene av prosjekter. Selv om prosjektlederen har det endelige ansvaret, er det viktig å lytte til de som har spesialisert kunnskap i deler av prosjektet. For eksempel, hvis IT-spesialisten påpeker at en løsning ikke er gunstig, bør prosjektleder ta dette til mere seriøst en vis noen andre sa det. Slik får fagspesialistene mulighet til å si sin mening innenfor sitt eget kompetanseområde, enten det er teknologi, design eller andre felt. (Jacobsen, 2016, s. 45)
+
 For å holde oversikt er det en mulighet å lage en sjekkliste eller et tankekart. Et tankekart kan gi en visuell oversikt over ideer og roller, som deretter kan overføres til en sjekkliste for å få en form for oversikt over oppgaver. Det er også lurt å dokumentere ting som blir gjort. Dette sikrer at de involverte har en viss formening om hva de skal gjøre, og at det ikke oppstår altfor mange misforståelser underveis. Eks: "Men jeg trodde det var hans ansvar" eller "det var ikke dette vi var enige i" (Jacobsen, 2016, s. 57). Når prosjektet er i bruk, kan dokumentasjonen være nyttig for å se tilbake på.
 
-### Ressursstyring og tilstrekkelig kommunikasjon:
+#### Ressursstyring og tilstrekkelig kommunikasjon:
 God planlegging av ressurser, tid og tekniske løsninger er avgjørende. Lag en enkel plan for de viktigste oppgavene, inkludert noen tidsfrister.de gruppene som har gode planer og god strukturer ser ut til å være en stor betydning for hvor godt et prosjekt utvikler seg (Jacobsen, 2016, s. 57).  Det kan være smart å legge inn en liten buffer for uforutsette hendelser. Fordel ressursene over prosjektperioden på 15 måneder, lag et budsjett, og sett av en liten reserve for uforutsette utgifter.
+
 Kommunikasjon er en viktig del. Det er bra å bli kjent med hverandre og etablere dialog. Man bør unngå å la folk bli redde for å snakke om potensielle problemer. Som man ofte gjør på sitt første møte. (Jacobsen, 2016, s. 37) For å bygge tillit er det lurt å møtes sosialt, for eksempel ved å spise lunsj sammen for å bli bedre kjent. Dette bidrar til en kultur der alle føler seg hørt, og ingen spørsmål føles unødvendige.
+
 En annen nyttig metode er å etablere en kultur der feil kan diskuteres. I stedet for å lete etter syndebukker, bør teamet fokusere på hva som kan læres av feilen. En prosjektleder kan skape denne kulturen ved å stille spørsmålet: "Hva kan vi endre på neste gang?" med et fokus på læring fremfor skyld, fremfor å rette oppmerksomheten mot hvem som er ansvarlig for feilen.
 
-### Konflikthåndtering og læring:
+#### Konflikthåndtering og læring:
 Holde jevnlige møter for å diskutere fremdrift, avdekke uenigheter og løse konflikter. Når en konflikt oppstår er det viktig å kilde fra personkonflikt fra sakskonflikt «det følelsesmessige aspektet i en konflikt vanskeliggjør konstruktiv problemløsning» (Jacobsen, 2016, s. 66). Prosjektlederen kan stille spørsmål for å finne ut mer, men må være nøytral. Eks: "Hva er det som skaper denne uenigheten?".
+
 Etter at uenighetens kjerne er identifisert, kan teamet diskutere mulige løsninger, der alle får muligheten til å foreslå ideer og komme med sinne vinklinger av situasjonen. (Jacobsen, 2016, s. 68) Til slutt dokumenterer dere valgene og løsningen sånn at man har flere ideer om hvordan man kan fikse situasjonen neste gang. 
+
 Å lære fra situasjonen og diskuter temaet, og bruke erfaringene til å finne løsninger i fremtiden. Hver gruppe er unik, og man må være tilpasningsdyktig overfor personene i teamet.
 
 
@@ -67,21 +73,34 @@ For det første kan man etablere en felles kommunikasjonsplan. Ifølge Johanness
 
 Ved å bruke digitale verktøy effektivt kan all informasjon generelt bli mer oversiktlig og enklere å korrigere. For eksempel på Teams kan det skapes faste kanaler for de forskjellige arbeidsoppgavene, eller å sette “pin” på viktige møtereferater eller dokumenter. Ved å forsikre om at dokumentene, både gamlere og nyere informasjon er lett oversiktlig, forståelig og tilgjengelig for alle prosjektmedlemmerne, vil tidligere prosjekter og ideer kunne bli brukt for et enda bedre resultat. 
 
-Et annet steg kan være å innføre en tydelig møtekultur, sånn at møtene blir så effektive som mulig, og at alle stemmer blir hørt. Man kan for eksempel bruke faste møtemaler som inkluderer agenda og referat, dele agenda innen 24 timer, og starte hvert møte med å spørre hvordan vi ligger an. Det å avslutte møtet med en oppsummering av fordeling av ansvar, og beslutninger, kan føre til mer oversikt og kontroll ettersom møtet avslutter. En annen del av møtekulturen kan være å rotere rollen som møteleder ved behov, for å bygge eierskap og ansvar blant alle. Det kan blant annet også bli enklere for gruppemedlemmene å kommunisere om alle har en felles kontaktperson.
+Et annet steg kan være å innføre en tydelig møtekultur (Lerdahl, 2020), sånn at møtene blir så effektive som mulig, og at alle stemmer blir hørt. Man kan for eksempel bruke faste møtemaler som inkluderer agenda og referat, dele agenda innen 24 timer, og starte hvert møte med å spørre hvordan vi ligger an. Det å avslutte møtet med en oppsummering av fordeling av ansvar, og beslutninger, kan føre til mer oversikt og kontroll ettersom møtet avslutter. En annen del av møtekulturen kan være å rotere rollen som møteleder ved behov, for å bygge eierskap og ansvar blant alle. Det kan blant annet også bli enklere for gruppemedlemmene å kommunisere om alle har en felles kontaktperson.
 
-Prosjektgruppen består av ulike bakgrunner og fagfelt, så det er viktig at alle parter kan forklare ved uklarheter, og oppmuntre til flere spørsmål for å bygge en felles forståelse. For å tidlig kunne sikre at kommunikasjonsproblemer blir store, er det smart å identifisere dem mens de fortsatt er små. Dette kan gjøres ved å for eksempel en gang i måneden spør om alle føler seg godt informert, føler seg hørt og om det oppstår noen misforståelser. Den psykologiske tryggheten må bli skapt for at medlemmene skal tørre å dele sine ideer, bekymringer og uenigheter. For å oppnå dette, må man først og fremst vise at det er lov å være uenig, at man anerkjenner forskjellige innspill, og kanskje sette av tid i møter til “åpen mikrofon” hvor medlemmene kan ta opp saker som ikke passer andre steder (Johannessen 2010).
+Prosjektgruppen består av ulike bakgrunner og fagfelt, så det er viktig at alle parter kan forklare ved uklarheter, og oppmuntre til flere spørsmål for å bygge en felles forståelse og oppmuntre til flere spørsmål for å bygge en felles forståelse, noe som er kjennetegn ved team med høy psykologisk trygghet (Sagberg, 2025). For å tidlig kunne sikre at kommunikasjonsproblemer blir store, er det smart å identifisere dem mens de fortsatt er små. Dette kan gjøres ved å for eksempel en gang i måneden spør om alle føler seg godt informert, føler seg hørt og om det oppstår noen misforståelser. Den psykologiske tryggheten må bli skapt for at medlemmene skal tørre å dele sine ideer, bekymringer og uenigheter, noe som er avgjørende for læring og god teamdynamikk (Solberg, 2025). For å oppnå dette, må man først og fremst vise at det er lov å være uenig, at man anerkjenner forskjellige innspill, og kanskje sette av tid i møter til “åpen mikrofon” hvor medlemmene kan ta opp saker som ikke passer andre steder (Johannessen 2010).
 
 ### Referanser
 
-- Bækken, H. (2022). Hva er forskjellen på en prosjektleder og prosjektarbeider? (hentet 23.9.25)
+- Bækken, H. (2022). Hva er forskjellen på en prosjektleder og prosjektarbeider? Hentet 23.9.25 fra
 https://www.prosjektbloggen.no/hva-er-forskjellen-p%C3%A5-en-prosjektleder-og-en-prosjekteier
 
-- Gjøsund. P & Huseby. R. (2015) To eller flere: Basiskunnskaper i gruppesykologi. Cappelen Damm Akademisk.
+- Dag Ingvar Jacobsen. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
+
+- Gjøsund. P & Huseby. R. (2015). To eller flere: Basiskunnskaper i gruppesykologi. Cappelen Damm Akademisk.
 
 - Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
 
-- Johannessen, J. A. (2010). Prosjektkommunikasjon (hentet 23.9.25)
+- Johannessen, J. A. (2010). Prosjektkommunikasjon. Hentet 23.9.25 fra
 https://depotbiblioteket.no/cgi-bin/m2?mode=p&tnr=919689
 
-- Kristiansen, P. Hvordan styret kan støtte en sterk rekrutteringsstrategi (hentet 17.10.25)
-https://www.styrekompetanse.no/ressurssenter/artikler/hvordan-styret-kan-stotte-en-sterk-rekrutteringsstrategi/
+- Kristiansen, P. Hvordan styret kan støtte en sterk rekrutteringsstrategi. Hentet 17.10.25 fra https://www.styrekompetanse.no/ressurssenter/artikler/hvordan-styret-kan-stotte-en-sterk-rekrutteringsstrategi/
+
+- Køster C. (2022). Prosjektplanlegging. Hentet 14.11.25 fra https://www.prosjektbloggen.no/prosjektplanlegging-steg-for-steg
+
+- Lerdahl, E. (2020). Fem tiltak for bedre møter. Kristiania – Kunnskap Kristiania. https://www.kristiania.no/kunnskap-kristiania/2020/02/fem-tiltak-for-bedre-moter/
+
+- Lædre, O. (2024). Relasjonskontrakt Hentet 14.11.25 fra https://snl.no/relasjonskontrakt_-_bygg_og_anlegg
+
+- Rolstadås A. (2025). Prosjektplanlegging. Hentet 14.11.25 fra https://snl.no/prosjektplanlegging
+
+- Sagberg, Ingvild: psykologisk trygghet i Store norske leksikon på snl.no. Hentet 14. november 2025 fra https://snl.no/psykologisk_trygghet
+
+- Wahl, A. C. (2025). Relasjonelle kontrakter: Nøkkelen til bedre samarbeid og langsiktig suksess Hentet 14.11.25 fra https://www.bull.no/artikler/anskaffelser/relasjonelle-kontrakter
