@@ -36,27 +36,17 @@ For å få et godt samarbeid mellom prosjekteier og prosjektleder kan det være 
 
 ### Proaktive mekanismer for konflikthåndtering
 
-#### Målrettede avgjørelser og tydelig ansvar:
-Når man tar avgjørelser i et prosjekt, bør man ha klare prinsipper. Hver avgjørelse må vurderes mot prosjektets overordnede mål og målsetninger. Er valget i tråd med oppgaven? Støtter det prosjektet? Dette er sentrale spørsmål som alltid må være i bakhodet. Det er også lurt å fastsette beslutningsmyndighet tidlig. Selv om prosjektlederen har det endelige ansvaret, er det avgjørende å lytte til de som har spesialisert kunnskap. For eksempel, hvis IT-spesialisten påpeker at en løsning ikke er teknisk hensiktsmessig, bør prosjektleder ta dette alvorlig. Slik får fagspesialistene mer innflytelse over avgjørelser innenfor sitt eget kompetanseområde, enten det er teknologi, design eller andre felt.
-For å holde oversikt kan man lage en sjekkliste eller et tankekart. Et tankekart kan gi en visuell oversikt over ideer og roller, som deretter kan overføres til en sjekkliste for å få oversikt over oppgaver. Det er også lurt å dokumentere alt som blir gjort og sagt. Dette sikrer at ingen blir usikre på hva de skal gjøre, og at det ikke blir misforståelser gjennom prosessen. Når prosjektet er i bruk, kan dokumentasjonen være nyttig for å se tilbake på og vurdere om noe bør gjøres annerledes.
-
-#### Ressursstyring og kommunikasjon:
-God planlegging av ressurser, tid og tekniske løsninger er avgjørende. Lag en detaljert plan for alle oppgaver, inkludert realistiske tidsfrister. Det er alltid smart å legge inn en buffer for uforutsette hendelser. Fordel ressursene over prosjektperioden på 15 måneder, lag et grundig budsjett, og sett av en reservepott for nødsituasjoner.
-Kommunikasjon er den viktigste delen. Det er avgjørende å bli kjent med hverandre og etablere en åpen dialog. Man kan ikke la folk bli redde for å snakke om potensielle problemer. For å bygge tillit, er det viktig å investere i sosiale aktiviteter, som å spise lunsj sammen, for å bli bedre kjent. Dette bidrar til en kultur der alle føler seg trygge og hørt, og ingen spørsmål er dumme. En annen viktig metode er å etablere en åpen feilkultur. I stedet for å lete etter syndebukker, bør teamet fokusere på hva som kan læres av feilen. En prosjektleder kan fasilitere dette ved å spørre "Hva kan vi gjøre annerledes neste gang?" i stedet for "Hvem gjorde denne feilen?".
-
-### Håndtering av konflikter og læring:
-
-#### Målrettede avgjørelser og løst definert ansvar:
+#### Målrettede avgjørelser og definert ansvar:
 Når man tar avgjørelser i et prosjekt, bør man ha noen prinsipper. Avgjørelser bør helst vurderes sånn at prosjektets mål er hovedtingen. Er valgene i tråd med oppgaven? Støtter dette prosjektet? Dette er spørsmål som kan være lurt å ha i baktankene. 
 Det er hensiktsmessig å definere hvem som skal ta ledelsen i de forskjellige hoveddelene av prosjekter. Selv om prosjektlederen har det endelige ansvaret, er det viktig å lytte til de som har spesialisert kunnskap i deler av prosjektet. For eksempel, hvis IT-spesialisten påpeker at en løsning ikke er gunstig, bør prosjektleder ta dette til mere seriøst en vis noen andre sa det. Slik får fagspesialistene mulighet til å si sin mening innenfor sitt eget kompetanseområde, enten det er teknologi, design eller andre felt. (Jacobsen, 2016, s. 45)
 For å holde oversikt er det en mulighet å lage en sjekkliste eller et tankekart. Et tankekart kan gi en visuell oversikt over ideer og roller, som deretter kan overføres til en sjekkliste for å få en form for oversikt over oppgaver. Det er også lurt å dokumentere ting som blir gjort. Dette sikrer at de involverte har en viss formening om hva de skal gjøre, og at det ikke oppstår altfor mange misforståelser underveis. Eks: "Men jeg trodde det var hans ansvar" eller "det var ikke dette vi var enige i" (Jacobsen, 2016, s. 57). Når prosjektet er i bruk, kan dokumentasjonen være nyttig for å se tilbake på.
 
-#### Enkel ressursstyring og tilstrekkelig kommunikasjon:
-Litt planlegging av ressurser, tid og tekniske løsninger er viktig. Lag en enkel plan for de viktigste oppgavene, inkludert noen tidsfrister.de gruppene som har gode planer og god strukturer ser ut til å være en stor betydning for hvor godt et prosjekt utvikler seg (Jacobsen, 2016, s. 57).  Det kan være smart å legge inn en liten buffer for uforutsette hendelser. Fordel ressursene over prosjektperioden på 15 måneder, lag et budsjett, og sett av en liten reserve for uforutsette utgifter.
+### Ressursstyring og tilstrekkelig kommunikasjon:
+God planlegging av ressurser, tid og tekniske løsninger er avgjørende. Lag en enkel plan for de viktigste oppgavene, inkludert noen tidsfrister.de gruppene som har gode planer og god strukturer ser ut til å være en stor betydning for hvor godt et prosjekt utvikler seg (Jacobsen, 2016, s. 57).  Det kan være smart å legge inn en liten buffer for uforutsette hendelser. Fordel ressursene over prosjektperioden på 15 måneder, lag et budsjett, og sett av en liten reserve for uforutsette utgifter.
 Kommunikasjon er en viktig del. Det er bra å bli kjent med hverandre og etablere dialog. Man bør unngå å la folk bli redde for å snakke om potensielle problemer. Som man ofte gjør på sitt første møte. (Jacobsen, 2016, s. 37) For å bygge tillit er det lurt å møtes sosialt, for eksempel ved å spise lunsj sammen for å bli bedre kjent. Dette bidrar til en kultur der alle føler seg hørt, og ingen spørsmål føles unødvendige.
 En annen nyttig metode er å etablere en kultur der feil kan diskuteres. I stedet for å lete etter syndebukker, bør teamet fokusere på hva som kan læres av feilen. En prosjektleder kan skape denne kulturen ved å stille spørsmålet: "Hva kan vi endre på neste gang?" med et fokus på læring fremfor skyld, fremfor å rette oppmerksomheten mot hvem som er ansvarlig for feilen.
 
-#### Konflikthåndtering og læring:
+### Konflikthåndtering og læring:
 Holde jevnlige møter for å diskutere fremdrift, avdekke uenigheter og løse konflikter. Når en konflikt oppstår er det viktig å kilde fra personkonflikt fra sakskonflikt «det følelsesmessige aspektet i en konflikt vanskeliggjør konstruktiv problemløsning» (Jacobsen, 2016, s. 66). Prosjektlederen kan stille spørsmål for å finne ut mer, men må være nøytral. Eks: "Hva er det som skaper denne uenigheten?".
 Etter at uenighetens kjerne er identifisert, kan teamet diskutere mulige løsninger, der alle får muligheten til å foreslå ideer og komme med sinne vinklinger av situasjonen. (Jacobsen, 2016, s. 68) Til slutt dokumenterer dere valgene og løsningen sånn at man har flere ideer om hvordan man kan fikse situasjonen neste gang. 
 Å lære fra situasjonen og diskuter temaet, og bruke erfaringene til å finne løsninger i fremtiden. Hver gruppe er unik, og man må være tilpasningsdyktig overfor personene i teamet.
@@ -86,9 +76,9 @@ Prosjektgruppen består av ulike bakgrunner og fagfelt, så det er viktig at all
 - Bækken, H. (2022). Hva er forskjellen på en prosjektleder og prosjektarbeider? (hentet 23.9.25)
 https://www.prosjektbloggen.no/hva-er-forskjellen-p%C3%A5-en-prosjektleder-og-en-prosjekteier
 
-- Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
-
 - Gjøsund. P & Huseby. R. (2015) To eller flere: Basiskunnskaper i gruppesykologi. Cappelen Damm Akademisk.
+
+- Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
 
 - Johannessen, J. A. (2010). Prosjektkommunikasjon (hentet 23.9.25)
 https://depotbiblioteket.no/cgi-bin/m2?mode=p&tnr=919689
