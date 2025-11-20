@@ -3,6 +3,7 @@
 
 print("Erling fant ut at silje og sivert er uenighe om teknologivalget i prosjektet.")
 print("Han har 2 løsninger for å håntere dette. Den ene er åpen kommunikasjon og den andre er individuelle samtaler.")
+print("Erling har ikke så mye tid igjen før prosjektet må leveres og må velge en av disse to løsningene.")
 print("hva velger han")
 
 #start av valgmuligheter
@@ -11,6 +12,7 @@ print("hva velger han")
 valg = input("åpen kommunikasjon / individuelle samtaler: ").lower()
 if valg == "åpen kommunikasjon":
     print("Erling holder et møte med teamet og ha en åpen kommunikasjon for å løse problemene.")
+    print("hvilken strategi bør man velge for å løse denne konflikten best og raskest mulig?")
     #valg for åpen kommunikasjon strategi 1 og 2 
     #vis man velger åpen kommunikasjon får mant 2 nye alternativer. strategi 1 og strategi 2
 
